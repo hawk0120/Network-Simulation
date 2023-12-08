@@ -5,6 +5,7 @@ I designed this network configuration for the network of three companies, given 
 It's an interesting problem demonstrating the concepts of Classless IP Subnetting and using RIPv2 Protocol. I am sharing this working solution so that it might be of help to others looking to learn these concepts with a practical real world example.
 
 # Designed Network
+![image](https://github.com/hawk0120/Network-Simulation/assets/35853045/5d462731-98fb-4628-8413-765f3a151d52)
 
 
 # Problem Statement
