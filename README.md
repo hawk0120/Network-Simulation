@@ -1,6 +1,6 @@
 ## A Network Topology designed using Cisco Packet Tracer
 
-I designed this network configuration for the network of three companies, given some constraints. This problem was presented in our CST8288 Final. I am looking to revise and review previous some of my previous course work. The main role was to subnet the IP addresses correctly.
+I designed this network configuration for the network of three companies, given some constraints. This problem was presented in my CST8288 Final. I am looking to revise and review previous coursework. The main role was to subnet the IP addresses correctly.
 
 It's an interesting problem demonstrating the concepts of Classless IP Subnetting and using RIPv2 Protocol. I am sharing this working solution so that it might be of help to others looking to learn these concepts with a practical real world example.
 
@@ -42,7 +42,5 @@ You, being very cautious, decide to simulate the topology on Cisco Packet Tracer
 5- Although you have to use GUI of the router to configure its interfaces but you must use CLI of the router to configure the RIPv2 Protocol for Classless Subnet Addressing.
 
 # How to Run
-Install Cisco Packet Tracer and then simply open the main file. pkt. The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
-
-This solution works for version 6.2 or above of Cisco Packet Tracer.
+Install Cisco Packet Tracer and then simply open the main file. pkt. The whole network is in working condition. You can check it by sending a packet from one system to another or by using the PING command in the Cisco Packet Tracer.
 
